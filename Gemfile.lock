@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tipgen (0.1.0)
+    blah (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -26,10 +26,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  blah!
   bundler (~> 1.16)
   rake (~> 10.0)
   rspec (~> 3.0)
-  tipgen!
 
 BUNDLED WITH
    1.16.2

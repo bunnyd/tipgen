@@ -4,10 +4,10 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "tipgen/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "tipgen"
+  spec.name          = "blah"
   spec.version       = Tipgen::VERSION
   spec.authors       = ["Nancy Do"]
-  spec.email         = ["nancydo7@gmail.com"]
+  spec.email         = ["bunnydproductions@gmail.com"]
 
   spec.summary       = %q{Generate tip amount based on inputs.}
   spec.homepage      = "https://github.com/bunnyd/tipgen"
